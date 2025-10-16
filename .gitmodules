@@ -1,0 +1,3 @@
+[submodule "kata-containers"]
+	path = kata-containers
+	url = https://github.com/kata-containers/kata-containers
